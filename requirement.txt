@@ -1,9 +1,7 @@
 pandas
-numPy
-malplotlib
-Seaborn
-collections
-pandas
+numpy
+streamlit
 scikit-learn
+
 
 streamlit
