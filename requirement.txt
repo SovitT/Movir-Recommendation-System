@@ -1,0 +1,9 @@
+pandas
+numPy
+malplotlib
+Seaborn
+collections
+pandas
+scikit-learn
+
+streamlit
